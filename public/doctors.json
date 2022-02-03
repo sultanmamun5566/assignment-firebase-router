@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Prof. Dr. Md. Dayem Uddin",
+      "skill": "MBBS, MCPS, FCPS (Radiotherapy), FRCP (Edin), PhD (Oncology)",
+      "department": "Cancer Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/portrait-hansome-young-male-doctor-man_171337-5068.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Md. Rais Uddin Mondol",
+      "skill": "MBBS, FCPS (Medicine), MD (Cardiology), Fellow (WHO",
+      "department": "Cardiology, Heart Diseases, Rheumatic Fever",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/black-male-doctor_53419-7575.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Rajesh Kumar Ghosh",
+      "skill": "MBBS, BCS (Health), MD (Cardiology)",
+      "department": "Cardiology Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/portrait-smiling-nurse-front-group-doctors_53419-5003.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Rezaul Islam",
+      "skill": "MBBS (DCM), FCPS (Medicine), MD (Chest)",
+      "department": "Chest & Allergy Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/positive-young-general-practitioner-filling-medical-record_1262-12424.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Samir Majumder",
+      "skill": "MBBS, MD (Chest Diseases)",
+      "department": "Chest Diseases Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Prof. Dr. Md. Belal Uddin",
+      "skill": "MBBS, DCH (BSMMU), FCPS (Pediatrics)",
+      "department": "Newborn, Adolescent & Child Diseases Specialist ",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/young-confident-lady-doctor-medical-gown-looking_171337-5773.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Prof. Dr. Md. Sanaul Haque",
+      "skill": "MBBS, FCPS (Pediatric)",
+      "department": "Child Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Khan Ishrat Jahan",
+      "skill": "MBBS, MD (Child)",
+      "department": "Child Diseases Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/portrait-hansome-young-male-doctor-man_171337-5068.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Monowara Begum",
+      "skill": "FCPS (OBGYN), FIGO, Fellow (Italy) ",
+      "department": "Gynecology & Obstetrics Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/photo-concentrated-serious-doctor-talking-with-patient-hospital-table_171337-114835.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dr. D. A. Rashid   ",
+      "skill": "MBBS, MCPS, MD (Endocrinology)",
+      "department": "Diabetes & Hormone Specialist",
+      "hospital": "Rajshahi Medical College & Hospital",
+      "img": "https://image.freepik.com/free-photo/young-lady-doctor-holding-copy-space-hand_171337-5775.jpg"
+    }
+  ]
